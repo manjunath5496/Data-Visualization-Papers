@@ -6,183 +6,154 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(1).pdf" style="text-decoration:none;">CoqIOA: A Formalization of IO Automata in the
-Coq Proof Assistant</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(1).pdf" style="text-decoration:none;">Adversarial Autoencoders</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(2).pdf" style="text-decoration:none;">An Offline Foundation for
-Online Accountable Pseudonyms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(2).pdf" style="text-decoration:none;">ShapeNet: An Information-Rich 3D Model Repository</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(3).pdf" style="text-decoration:none;">A Programming Language
-Based on Classical Logic</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(4).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(5).pdf" style="text-decoration:none;">Mobile Computing with the Rover Toolkit</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(6).pdf" style="text-decoration:none;">Improving Network Connection Locality on Multicore Systems</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(7).pdf" style="text-decoration:none;">Asynchronous intrusion recovery
-for interconnected web services</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(3).pdf" style="text-decoration:none;">Doubly Stochastic Neighbor Embedding on Spheres</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(4).pdf" style="text-decoration:none;">A high-bias, low-variance introduction to Machine Learning for physicists</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(5).pdf" style="text-decoration:none;">Data2Vis: Automatic Generation of Data Visualizations Using Sequence to Sequence Recurrent Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(6).pdf" style="text-decoration:none;">A new robust feature selection method using variance-based sensitivity analysis</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(7).pdf" style="text-decoration:none;">VINE: An Open Source Interactive Data Visualization Tool for Neuroevolution</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(8).pdf" style="text-decoration:none;"> Performance Optimization of the VDFS Verified
-File System </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(9).pdf" style="text-decoration:none;">Algorand: Scaling Byzantine Agreements
-for Cryptocurrencies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(8).pdf" style="text-decoration:none;"> VizML: A Machine Learning Approach to Visualization Recommendation </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(9).pdf" style="text-decoration:none;">Torchbearer: A Model Fitting Library for PyTorch</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(10).pdf" style="text-decoration:none;">Alpaca: Extensible Authorization for Distributed Services </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(11).pdf" style="text-decoration:none;">A Concurrency-Optimal Binary Search Tree</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(12).pdf" style="text-decoration:none;">Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(13).pdf" style="text-decoration:none;">Amber: Decoupling User Data from Web Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(10).pdf" style="text-decoration:none;">jMetalPy: a Python Framework for Multi-Objective Optimization with Metaheuristics </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(11).pdf" style="text-decoration:none;">LumiPath &minus; Towards Real-time Physically-based Rendering on Embedded Devices</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(12).pdf" style="text-decoration:none;">Addressing The Mystery of Population Decline of The Rose-Crested Blue Pipit In A Nature Preserve Using Data Visualization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(13).pdf" style="text-decoration:none;">Two Decades of Network Science</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(14).pdf" style="text-decoration:none;">Quboid: A Workstation for Safer Web Interaction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(14).pdf" style="text-decoration:none;">Capacity Preserving Mapping for High-dimensional Data Visualization</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(15).pdf" style="text-decoration:none;">Argosy: Verifying Layered Storage Systems with
-Recovery Refinement</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(15).pdf" style="text-decoration:none;">Self Organizing Nebulous Growths for Robust and Incremental Data Visualization</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(16).pdf" style="text-decoration:none;">LRC: Dependency-Aware Cache Management
-for Data Analytics Clusters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(16).pdf" style="text-decoration:none;">Twenty Years of Network Science:
+A Bibliographic and Co-Authorship Network Analysis</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(17).pdf" style="text-decoration:none;">Make Least Privilege a Right (Not a Privilege)</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(17).pdf" style="text-decoration:none;">NCVis: Noise Contrastive Approach for Scalable Visualization</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(18).pdf" style="text-decoration:none;">Labels and Event Processes
-in the Asbestos Operating System</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(18).pdf" style="text-decoration:none;">IoT Based Real Time Noise Mapping System for Urban Sound Pollution Study</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(19).pdf" style="text-decoration:none;">Privacy-Preserving Browser-Side Scripting With BFlow</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(19).pdf" style="text-decoration:none;">A Showcase of the Use of Autoencoders in Feature Learning Applications</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(20).pdf" style="text-decoration:none;">The benefits and costs of writing a
-POSIX kernel in a high-level language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(20).pdf" style="text-decoration:none;">Generalized Penalty for Circular Coordinate Representation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(21).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(22).pdf" style="text-decoration:none;">LLVM: A Compilation Framework for
-Lifelong Program Analysis and Transformation</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(23).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX
-Kernel in a High-Level Language [Cody Cutler]</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(21).pdf" style="text-decoration:none;">Trajectories, bifurcations and pseudotime in large clinical datasets: applications tomyocardial infarction and diabetes data</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(22).pdf" style="text-decoration:none;">Learning Adaptive Sampling and Reconstruction for Volume Visualization</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(23).pdf" style="text-decoration:none;">Deconstructing and Restyling D3 Visualizations</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(24).pdf" style="text-decoration:none;">Separating Web Applications from User Data Storage with BSTORE</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(24).pdf" style="text-decoration:none;">Designing for Insight: A Case Study from Tennis Player Analysis</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(25).pdf" style="text-decoration:none;">A Methodical Study of Web Crawler</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(26).pdf" style="text-decoration:none;">Certifying a File System Using
-Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(27).pdf" style="text-decoration:none;">A Differential Approach to
-Undefined Behavior Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(25).pdf" style="text-decoration:none;">Generating Emotionally Relevant Musical Scores for Audio Stories</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(26).pdf" style="text-decoration:none;">MotionMontage: A System to Annotate and Composite Motion Takes for 3D Animations</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(27).pdf" style="text-decoration:none;">History Assisted View Authoring for 3D Models</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(28).pdf" style="text-decoration:none;">Reducing Pause Times with Clustered Collection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(28).pdf" style="text-decoration:none;">Creating Works-Like Prototypes of Mechanical Objects</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(29).pdf" style="text-decoration:none;">Reducing Pause Times With Clustered Collection [Cody Cutler] </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(29).pdf" style="text-decoration:none;">Vectorising Bitmaps into Semi-Transparent Gradient Layers </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(30).pdf" style="text-decoration:none;">Certifying Program Execution with Secure Processors</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(30).pdf" style="text-decoration:none;">Structuring, Aggregating, and Evaluating Crowdsourced Design Critique</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(31).pdf" style="text-decoration:none;">Providing a Shared File System in the Hare
-POSIX Multikernel</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(32).pdf" style="text-decoration:none;">Linux kernel vulnerabilities:
-State-of-the-art defenses and open problems</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(31).pdf" style="text-decoration:none;">Kernelized SynapticWeight Matrices</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(32).pdf" style="text-decoration:none;">Capture-Time Feedback for Recording Scripted Narration</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(33).pdf" style="text-decoration:none;">Robust and Efficient Data Management for a Distributed Hash Table</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(33).pdf" style="text-decoration:none;">City Forensics: Using Visual Elements to Predict Non-Visual City Attributes</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(34).pdf" style="text-decoration:none;">Choosing Internet Paths with High Bulk Transfer Capacity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(34).pdf" style="text-decoration:none;">SceneSkim: Searching and Browsing Movies Using Synchronized Captions, Scripts and Plot Summaries</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(35).pdf" style="text-decoration:none;">City Forensics: Using Visual Elements to Predict Non-Visual City Attributes</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
-Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(36).pdf" style="text-decoration:none;">Extracting References Between Text and Charts via Crowdsourcing</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(37).pdf" style="text-decoration:none;">Herodotus: A Peer-to-PeerWeb Archival System</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(38).pdf" style="text-decoration:none;">A case study of server selection</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(39).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(40).pdf" style="text-decoration:none;">Programming language optimizations for modular router configurations</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
-CB-DPOR</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
-Concurrent Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(37).pdf" style="text-decoration:none;">Forex Data Analysis Using Weka</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(38).pdf" style="text-decoration:none;">Video Digests: A Browsable, Skimmable Format for Informational Lecture Videos</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(39).pdf" style="text-decoration:none;">CULTUREGRAPHY</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(40).pdf" style="text-decoration:none;">Scalable Graph Exploration and Visualization: Sensemaking Challenges and Opportunities</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(41).pdf" style="text-decoration:none;">Sizing the Horizon: The Effects of Chart Size and Layering on the Graphical Perception of Time Series Visualizations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(42).pdf" style="text-decoration:none;">Crowdsourcing Graphical Perception: Using Mechanical Turk to Assess Visualization Design</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(43).pdf" style="text-decoration:none;">Narrative Visualization: Telling Stories with Data</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(44).pdf" style="text-decoration:none;">D3: Data-Driven Documents</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(45).pdf" style="text-decoration:none;">The Effects of Interactive Latency on Exploratory Visual Analysis</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(46).pdf" style="text-decoration:none;">Conclave: secure multi-party computation on big data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(46).pdf" style="text-decoration:none;">Learning Perceptual Kernels for Visualization Design</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(47).pdf" style="text-decoration:none;">Corey: An Operating System for Many Cores</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(48).pdf" style="text-decoration:none;">CPHash: A Cache-Partitioned Hash Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(47).pdf" style="text-decoration:none;">Beyond Memorability: Visualization Recognition and Recall</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(48).pdf" style="text-decoration:none;">Explaining the Gap: Visualizing One's Predictions Improves Recall and Comprehension of Data</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(49).pdf" style="text-decoration:none;">Scaling Address-Space Operations on Linux with
-TSX</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(49).pdf" style="text-decoration:none;">Surprise! Bayesian Weighting for De-Biasing Thematic Maps</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(50).pdf" style="text-decoration:none;">Why does cryptographic software fail?
-A case study and open problems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(51).pdf" style="text-decoration:none;">In Defense of Wireless Carrier Sense</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(52).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(50).pdf" style="text-decoration:none;">Assessing Effects of Task and Data Distribution on the Effectiveness of Visual Encodings</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(51).pdf" style="text-decoration:none;">Algorithmic improvements for the CIECAM02 and CAM16 color appearance models</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(52).pdf" style="text-decoration:none;">Animation:
+From Cartoons to the User Interface</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(53).pdf" style="text-decoration:none;">The Little Manual of
-API Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(53).pdf" style="text-decoration:none;">Four Experiments on the Perception of Bar Charts</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(54).pdf" style="text-decoration:none;">Design and Applications of a Secure and Decentralized Distributed Hash Table </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(54).pdf" style="text-decoration:none;">Bin-summarise-smooth: A framework for visualising large data </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(55).pdf" style="text-decoration:none;">Recovering from intrusions in distributed systems with DARE</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(55).pdf" style="text-decoration:none;">When (ish) is My Bus? User-centered Visualizations of Uncertainty in Everyday, Mobile Predictive Systems</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(56).pdf" style="text-decoration:none;">Verifying a high-performance crash-safe file system using a tree specification </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(56).pdf" style="text-decoration:none;">Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(57).pdf" style="text-decoration:none;">No Silver Bullet — Essence and Accident in Software Engineering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(57).pdf" style="text-decoration:none;">Towards Unambiguous Edge Bundling: Investigating Confluent Drawings for Network Visualization</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(58).pdf" style="text-decoration:none;">Proving confidentiality in a file system using DISKSEC</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(59).pdf" style="text-decoration:none;">Calvin: Fast Distributed Transactions
-for Partitioned Database Systems</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(58).pdf" style="text-decoration:none;">Evaluation of Alternative Glyph Designs for Time Series Data in a Small Multiple Setting</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(59).pdf" style="text-decoration:none;">Past, Present and Future of
+User Interface Software Tools</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(60).pdf" style="text-decoration:none;">Executing Web Application Queries on a Partitioned Database </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(60).pdf" style="text-decoration:none;">The Connected Scatterplot for Presenting Paired Time Series </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(61).pdf" style="text-decoration:none;">DNS Performance and the Effectiveness of Caching</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(61).pdf" style="text-decoration:none;">Principles of High-Dimensional Data Visualization in Astronomy</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(62).pdf" style="text-decoration:none;">Phase Reconciliation for Contended In-Memory Transactions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(62).pdf" style="text-decoration:none;">Hierarchical Aggregation for Information Visualization: Overview, Techniques and Design Guidelines</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(63).pdf" style="text-decoration:none;">Locating Cache Performance Bottlenecks Using Data Profiling</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(63).pdf" style="text-decoration:none;">HOLA: Human-like Orthogonal Network Layout</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(64).pdf" style="text-decoration:none;">Understanding Real-World Concurrency Bugs in Go</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(64).pdf" style="text-decoration:none;">Finding a Clear Path: Structuring Strategies for Visualization Sequences</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(65).pdf" style="text-decoration:none;">Dynamic Computation Migration
-in Distributed Shared Memory Systems </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(65).pdf" style="text-decoration:none;">Focus+ Context Display and Navigation Techniques for Enhancing Radial, Space-Filling Hierarchy Visualizations</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(66).pdf" style="text-decoration:none;">Extracting and Optimizing low-level bytecode from High-level verified Coq</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(66).pdf" style="text-decoration:none;">An Argument Structure for Data Stories</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(67).pdf" style="text-decoration:none;">Multiprocessing with the Exokernel Operating System</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(67).pdf" style="text-decoration:none;">Visual Narrative Flow: Exploring Factors Shaping Data Visualization Story Reading Experiences</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(68).pdf" style="text-decoration:none;">Fast and Flexible Application-Level
-Networking on Exokernel Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(68).pdf" style="text-decoration:none;">Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(69).pdf" style="text-decoration:none;">Device Transparency: a New Model for Mobile Storage</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(69).pdf" style="text-decoration:none;">Automating the Design of Graphical Presentations of Relational Information</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(70).pdf" style="text-decoration:none;">Eyo: Device-Transparent Personal Storage</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(70).pdf" style="text-decoration:none;">Why Evaluating Uncertainty Visualization is Error Prone</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(71).pdf" style="text-decoration:none;">Measuring the Effects of Internet Path Faults on
-Reactive Routing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(71).pdf" style="text-decoration:none;">Process and Pitfalls in Writing Information Visualization Research Papers</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(72).pdf" style="text-decoration:none;">A Distributed Hash Table</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(72).pdf" style="text-decoration:none;">Investigating the Effect of the Multiple Comparisons Problem in Visual Analysis</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(73).pdf" style="text-decoration:none;">Firmament: fast, centralized cluster scheduling at scale</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(74).pdf" style="text-decoration:none;">Information Flow Control for Standard OS Abstractions</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(75).pdf" style="text-decoration:none;">UIA: A Global Connectivity Architecture
-for Mobile Personal Devices</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(76).pdf" style="text-decoration:none;">Specifying Crash Safety for Storage Systems</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(73).pdf" style="text-decoration:none;">Arcs, Angles, or Areas:
+Individual Data Encodings in Pie and Donut Charts</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(74).pdf" style="text-decoration:none;">A New Visual Method for Evaluating the Predictive Power of Binary Models</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(75).pdf" style="text-decoration:none;">Stacked Graphs – Geometry and  Aesthetics</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(76).pdf" style="text-decoration:none;">Tidy Data</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(77).pdf" style="text-decoration:none;">Using Crash Hoare Logic for Certifying the FSCQ File System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(77).pdf" style="text-decoration:none;">Temporal Distortion for Animated Transitions</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(78).pdf" style="text-decoration:none;">An Approach to Improve the Performance
-of Insertion Sort Algorithm</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(79).pdf" style="text-decoration:none;">Integrity and access control in untrusted content distribution networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(78).pdf" style="text-decoration:none;">Infovis and Statistical Graphics: Different Goals, Different Looks </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(79).pdf" style="text-decoration:none;">Data Through Others' Eyes: The Impact of Visualizing Others' Expectations on Visualization Interpretation</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(80).pdf" style="text-decoration:none;">Waddle: A proven interpreter and test framework
-for a subset of the Go semantics</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(80).pdf" style="text-decoration:none;">Visualization Rhetoric: Framing Effects in Narrative Visualization</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(81).pdf" style="text-decoration:none;">The Grid Roofnet:
-a Rooftop Ad Hoc Wireless Network</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(82).pdf" style="text-decoration:none;">Hare: a file system for non-cache-coherent multicores</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(81).pdf" style="text-decoration:none;">A Layered Grammar of Graphics</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Data-Visualization-Papers/blob/master/dv(82).pdf" style="text-decoration:none;">A Mixed-Initiative Interface for Animating Static Pictures</a></li>
 
  </ul>
   
